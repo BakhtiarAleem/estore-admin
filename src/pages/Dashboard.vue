@@ -2,6 +2,5 @@
 </script>
 <template>
     <div class="auth--logged-in">
-
     </div>
 </template>

@@ -3,6 +3,6 @@
 
 <template>
     <div class="admin-layout">
-        <slot></slot>
+       <slot />
     </div>
 </template>

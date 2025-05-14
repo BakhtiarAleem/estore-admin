@@ -1,0 +1,19 @@
+@import '@/assets/scss/variables.scss';
+@import '@/assets/scss/fonts.scss';
+@import '@/assets/scss/form.scss';
+
+
+
+
+html{
+    height: 100%;
+    font-family: var(--font-regular);
+    body{
+        margin: auto;
+        height: 100%;
+        #app{
+            width: 100%;
+            height: 100%;
+        }
+    }
+}

@@ -1,9 +1,21 @@
 <script setup>
+  import { computed } from 'vue';
+  import { useRoute } from 'vue-router';
+  import AuthLayout from '@/layouts/Auth.vue'
+  import DefaultLayout from '@/layouts/Default.vue'
+  const route = useRoute()
+
+  const layout = computed(() => {
+    return route.meta.layout === 'auth' ? AuthLayout : DefaultLayout
+  })
+
 
 </script>
 
 <template>
+ <component :is="layout">
   <router-view />
+</component>
 </template>
 
 <style scoped>

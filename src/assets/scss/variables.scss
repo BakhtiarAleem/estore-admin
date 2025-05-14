@@ -1,0 +1,32 @@
+// Color variable
+:root{
+    --primary: #b1e5fb;
+    --secondary: #b1e5fb;
+    --text-color: #0157a4;
+    --input-color: #fff;
+    --btn-color: #0157a4;
+    --btn-text-color: #fff;
+    --error-color: #b50c0c;
+}
+
+// font family variable
+:root{
+    --font-light: 'Roboto-light';
+    --font-regular: 'Roboto-Regular';
+    --font-semibold: 'Roboto-SemiBold';
+    --font-bold: 'Roboto-Bold';
+    --font-xs: 10px;
+    --font-sm: 12px;
+    --font-md: 14px;
+    --font-base: 16px;
+    --font-large: 18px;
+    --font-xlarge: 20px; 
+}
+
+// spacing and padding variables
+
+:root{
+    --btn-padding: 7px 20px;
+    --btn-radius: 6px;
+    --btn-border: 0px solid;
+}

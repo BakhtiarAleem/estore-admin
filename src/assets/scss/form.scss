@@ -1,0 +1,37 @@
+form{
+
+}
+.form-group {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 13px;
+    .form-label{
+        font-family: var(--font-semibold);
+        color: var(--text-color);
+        padding-bottom: 4px;
+        font-size: var(--font-base);
+    }
+    input[type="text"], input[type="password"]{
+        padding: 5px 5px;
+        font-size: 16px;
+        border: 0px solid;
+        border-radius: 4px;
+    }
+    .error{
+        color: var( --error-color);
+        font-family: var(--font-light);
+        font-size: var(--font-sm);
+        padding-top: 4px;
+    }
+}
+.btn{
+    &.btn-primary{
+        font-size: var(--font-base);
+        background-color: var(--btn-color);
+        color: var(--btn-text-color);
+        border-radius: var(--btn-radius);
+        border: var(--btn-border);
+        padding: var(--btn-padding);
+        cursor: pointer;
+    }
+}
