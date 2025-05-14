@@ -1,0 +1,28 @@
+[
+    {
+        "username": "admin@gmail.com",
+        "password": "admin123",
+        "userData":{
+        "fullname": "Admin",
+        "phone": "0011224455"
+        }
+        
+    },
+    {
+        "username": "test@gmail.com",
+        "password": "test123",
+        "userData":{
+        "fullname": "Test",
+        "phone": "1111111111"
+        }
+    },
+    {
+        "username": "bakhtiar@gmail.com",
+        "password": "bakhtiar123",
+        "userData":{
+        "fullname": "Bakhtiar Aleem",
+        "phone": "+923132406028"
+        }
+
+    }
+]

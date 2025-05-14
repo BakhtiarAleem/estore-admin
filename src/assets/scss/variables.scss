@@ -4,9 +4,13 @@
     --secondary: #b1e5fb;
     --text-color: #0157a4;
     --input-color: #fff;
+    --input-border-color: #f3f4f7;
     --btn-color: #0157a4;
     --btn-text-color: #fff;
     --error-color: #b50c0c;
+    --auth-bg-color: #f3f4f7;
+    --body-bg-color: #f3f4f7;
+    --form-icon-bg: #f3f4f7;
 }
 
 // font family variable
@@ -21,12 +25,19 @@
     --font-base: 16px;
     --font-large: 18px;
     --font-xlarge: 20px; 
+    --h1: 32px;
+    --h2: 30px;
+    --h3: 28px;
+    --h4: 26px;
+    --h5: 24px;
+    --h6: 20px;
 }
 
 // spacing and padding variables
 
 :root{
-    --btn-padding: 7px 20px;
+    --btn-padding: 12px 31px;
     --btn-radius: 6px;
     --btn-border: 0px solid;
+    --input-padding: 6px 5px 6px 40px;
 }

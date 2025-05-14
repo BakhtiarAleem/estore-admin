@@ -3,7 +3,8 @@
     padding: 30px;
     width: 100%;
     box-sizing: border-box;
-    background-image: url('@/assets/images/auth-background.png');
+    // background-image: url('@/assets/images/auth-background.png');
+    background-color: var(--auth-bg-color);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -12,8 +13,13 @@
         display: flex;
         align-items: center;
         justify-content: center;
+        flex-direction: column;
+        .logo-container{
+            margin-bottom: 40px;
+        }
         .auth-form {
             width: 500px;
+            padding: 10px 0px;
             height: auto;
             border: 1px solid var(--primary);
             background-color: var(--primary);
@@ -21,13 +27,13 @@
             .auth-head {
                 width: auto;
                 margin: auto;
-                padding: 30px 20px;
+                padding: 10px 20px;
                 .logo-container{
                     margin: auto;
                 }
             }
             .auth-body {
-                padding: 30px 20px;
+                padding: 10px 20px;
             }
         }
     }
