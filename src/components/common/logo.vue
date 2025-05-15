@@ -10,7 +10,7 @@
 
 <style lang="scss">
 .logo-container {
-    width: 150px;
+    width: 200px;
     height: auto;
     .logo-image {
         width: 100%;

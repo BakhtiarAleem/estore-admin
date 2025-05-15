@@ -1,16 +1,19 @@
 // Color variable
 :root{
-    --primary: #b1e5fb;
+    --primary: #e02a21;
     --secondary: #b1e5fb;
-    --text-color: #0157a4;
+    --text-color: #dadbe1;
     --input-color: #fff;
     --input-border-color: #f3f4f7;
-    --btn-color: #0157a4;
+    --btn-color: #e02a21;
     --btn-text-color: #fff;
     --error-color: #b50c0c;
-    --auth-bg-color: #f3f4f7;
-    --body-bg-color: #f3f4f7;
+    --auth-bg-color: #1d1e24;
+    --body-bg-color: #1d1e24;
     --form-icon-bg: #f3f4f7;
+    --heading-color: #acacae;
+    --auth-form-color: #2b2c34;
+    --border-seperator-color: #363740;
 }
 
 // font family variable
@@ -40,4 +43,5 @@
     --btn-radius: 6px;
     --btn-border: 0px solid;
     --input-padding: 6px 5px 6px 40px;
+    --sidebar-item-padding: 10px 24px;
 }
