@@ -1,3 +1,3 @@
 <template>
-    <svg width="24px" height="24px" stroke-width="1.5" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" color="#000000"><path d="M20 20H4V4" stroke="#000000" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path><path d="M4 16.5L12 9L15 12L19.5 7.5" stroke="#000000" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path></svg>
+    <svg width="34px" height="34px" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" stroke-width="1.5"><rect x="16" y="3" width="5" height="18" rx="2"></rect><rect x="9.5" y="9" width="5" height="12" rx="2"></rect><rect x="3" y="16" width="5" height="5" rx="2"></rect></svg>
 </template>

@@ -3,8 +3,10 @@
         "username": "admin@gmail.com",
         "password": "admin123",
         "userData":{
-        "fullname": "Admin",
-        "phone": "0011224455"
+            "fullname": "Forsit",
+            "phone": "0011224455",
+            "image": "https://gravatar.com/avatar/33bb165b491146074e6d6624b64161a0?s=400&d=retro&r=x",
+            "role": "Admin"
         }
         
     },
@@ -13,7 +15,9 @@
         "password": "test123",
         "userData":{
         "fullname": "Test",
-        "phone": "1111111111"
+        "phone": "1111111111",
+        "image": "https://gravatar.com/avatar/0688099e76e70c582f7ba05a476f3171?s=400&d=robohash&r=x",
+        "role": "QA Analysist"
         }
     },
     {
@@ -21,7 +25,9 @@
         "password": "bakhtiar123",
         "userData":{
         "fullname": "Bakhtiar Aleem",
-        "phone": "+923132406028"
+        "phone": "+923132406028",
+        "image": "https://robohash.org/f6fdbd3912011631980284e7832475c7?set=set4&bgset=&size=400x400",
+        "role": "Developer"
         }
 
     }
