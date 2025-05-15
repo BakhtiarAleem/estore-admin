@@ -1,6 +1,5 @@
 
 <script setup>
-    import SidePanel from '@/components/common/sidePanel.vue';
 </script>
 
 <template>
