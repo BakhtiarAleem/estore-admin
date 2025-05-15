@@ -1,0 +1,109 @@
+
+{
+    "daily":[
+        {
+            "category": "2025-04-30",
+            "All": 4500,
+            "Electronic": 2000,
+            "Clothing": 1500,
+            "Home": 1000
+        },
+        {
+            "category": "2025-05-01",
+            "All": 4800,
+            "Electronic": 2300,
+            "Clothing": 1600,
+            "Home": 900
+        },
+        {
+            "category": "2025-05-02",
+            "All": 5000,
+            "Electronic": 2500,
+            "Clothing": 1700,
+            "Home": 800
+        },
+        {
+            "category": "2025-05-03",
+            "All": 6000,
+            "Electronic": 2500,
+            "Clothing": 1700,
+            "Home": 1800
+        }
+    ],
+    "weekly":[
+        {
+            "category": "Week 1",
+            "All": 5500,
+            "Electronic": 3000,
+            "Clothing": 1500,
+            "Home": 1000
+        },
+        {
+            "category": "Week 2",
+            "All": 8000,
+            "Electronic": 3000,
+            "Clothing": 3000,
+            "Home": 2000
+        },
+        {
+            "category": "Week 3",
+            "All": 5000,
+            "Electronic": 2500,
+            "Clothing": 1700,
+            "Home": 800
+        },
+        {
+            "category": "Week 4",
+            "All": 10000,
+            "Electronic": 2500,
+            "Clothing": 2500,
+            "Home": 5000
+        }
+    ],
+        "monthly":[
+        {
+            "category": "Jan",
+            "All": 20000,
+            "Electronic": 10000,
+            "Clothing": 5000,
+            "Home": 5000
+        },
+        {
+            "category": "Feb",
+            "All": 10000,
+            "Electronic": 2500,
+            "Clothing": 2500,
+            "Home": 5000
+        },
+        {
+            "category": "March",
+            "All": 25000,
+            "Electronic": 12000,
+            "Clothing": 10000,
+            "Home": 3000
+        }
+    ],
+           "annually":[
+        {
+            "category": "2022",
+            "All": 50000,
+            "Electronic": 20000,
+            "Clothing": 20000,
+            "Home": 10000
+        },
+        {
+            "category": "2023",
+            "All": 70000,
+            "Electronic": 30000,
+            "Clothing": 20000,
+            "Home": 20000
+        },
+        {
+            "category": "2024",
+            "All": 90000,
+            "Electronic": 30000,
+            "Clothing": 40000,
+            "Home": 20000
+        }
+    ]
+}

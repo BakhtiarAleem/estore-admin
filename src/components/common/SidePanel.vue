@@ -158,6 +158,8 @@
             width: 100%;
             flex-direction: row;
             cursor: pointer;
+            padding: 0px 10px;
+            box-sizing: border-box;
             .user-image{
                 width: 50px;
                 border-radius: 50px;

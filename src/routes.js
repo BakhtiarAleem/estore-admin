@@ -8,11 +8,11 @@ import InventoryManagementView from './pages/InventoryManagement.vue'
 import ProductRegistrationView from './pages/ProductRegistration.vue'
 
 const routes = [
-  { path: '/', name:'login', component: LoginView, meta: { layout: 'auth', requiredAuth: false } },
-  { path: '/dashboard', name:'dashboard', component: DashboardView, meta: { layout: 'default', requiredAuth: true } },
-    { path: '/revenue-analysis', name:'revenue', component: RevenueAnalysisView, meta: { layout: 'default', requiredAuth: true } },
-      { path: '/inventory-management', name:'inventory', component: InventoryManagementView, meta: { layout: 'default', requiredAuth: true } },
-        { path: '/product-registration', name:'addProduct', component: ProductRegistrationView, meta: { layout: 'default', requiredAuth: true } },
+  { path: '/', name:'login', component: LoginView, meta: { layout: 'auth', requiredAuth: false, title: 'Login' } },
+  { path: '/dashboard', name:'dashboard', component: DashboardView, meta: { layout: 'default', requiredAuth: true, title: 'Dashboard' } },
+    { path: '/revenue-analysis', name:'revenue', component: RevenueAnalysisView, meta: { layout: 'default', requiredAuth: true, title: 'Revenue Analysis' } },
+      { path: '/inventory-management', name:'inventory', component: InventoryManagementView, meta: { layout: 'default', requiredAuth: true, title: 'Inventory Management' } },
+        { path: '/product-registration', name:'addProduct', component: ProductRegistrationView, meta: { layout: 'default', requiredAuth: true, title: 'Product Registration' } },
 ]
 
 const router = createRouter({
