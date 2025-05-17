@@ -1,0 +1,22 @@
+.card-box{
+    background-color: var(--card-bg-color);
+    padding: 20px;
+    border-radius: 15px;
+    .card-header{
+        border-bottom: 1px solid var(--border-seperator-color);
+        display: flex;
+        align-items: normal;
+        justify-content: space-between;
+        .right-sec{
+            display: flex;
+             & > * {
+                margin-left: 20px;
+            }
+        }
+        .left-sec{
+            & > * {
+                margin-bottom: 20px;
+            }
+        }
+    }
+}

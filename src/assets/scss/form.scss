@@ -15,7 +15,7 @@ form{
     .icon {
         width: 20px;
         position: absolute;
-        left: 0;
+        left: -1px;
         padding: 3px 4px;
         background-color: var(--form-icon-bg);
         border: 1px solid var(--input-border-color)
@@ -25,7 +25,7 @@ form{
         font-size: 16px;
         border-radius: 4px;
         outline: 0;
-        border: 1px solid var(--input-border-color);
+        border: 0px solid var(--input-border-color);
     }
     .error{
         color: var( --error-color);
@@ -33,6 +33,14 @@ form{
         font-size: var(--font-sm);
         padding-top: 4px;
     }
+}
+.form-control{
+    padding: var(--select-padding);
+    font-size: 16px;
+    border-radius: 4px;
+    outline: 0;
+    border: 0px solid var(--input-border-color);
+    height: 32px;
 }
 .btn{
     &.btn-primary{

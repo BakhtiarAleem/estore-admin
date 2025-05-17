@@ -12,7 +12,6 @@ import TopBar from '@/components/common/TopBar.vue';
             <div class="admin-bottom-area">            
                 <slot />
             </div>
-
        </div>
     </div>
 </template>
