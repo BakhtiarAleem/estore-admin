@@ -1,14 +1,23 @@
 # estore-admin
 
-This template should help get you started developing with Vue 3 in Vite.
+A Mordern Flexible Admin Dashboard Build on Vue+Vite
 
-## Recommended IDE Setup
+## Live Demo
+[View Demo](https://estore-admin-delta.vercel.app/)
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+## Features & Implementation
+- Custom CSS to Decrease Loadtime
+- CSS Variables Structure
+- Easily Customizable UI
+- Scaleable & Modular Codebase
+- Iconoir Icons
 
-## Customize configuration
-
-See [Vite Configuration Reference](https://vite.dev/config/).
+ ## Implementation
+- Vuex Store
+- Ag-Grid Data Table  
+- ApexChart
+- LocalStorage
+-    
 
 ## Project Setup
 
