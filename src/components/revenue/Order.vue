@@ -1,6 +1,6 @@
 <script setup>
 import { ref, onMounted, computed } from 'vue';
-import data from '@/data/revenue.json'
+import data from '@/data/order.json'
 const period = ref('daily')
 const isLoading = ref(true)
 const selectedCategory = ref('All')
@@ -76,19 +76,22 @@ const chartOptions = computed(() => ({
   chart: {
     id: 'comparison',
     stacked: false,
+    toolbar: {
+    show: false
+    }
   },
   xaxis: {
     categories: dataCategoryNames.value,
     labels: {
       style: {
-        colors: '#fff', // White color for x-axis labels
+        colors: '#fff',
       }
     }
   },
   yaxis: {  
     labels: {
       style: {
-        colors: '#fff', // White color for x-axis labels
+        colors: '#fff',
       }
     }
   },
@@ -99,14 +102,14 @@ const chartOptions = computed(() => ({
   },
   legend: {
     labels: {
-      colors: '#fff' // White color for legend text
+      colors: '#fff'
     }
   },
     tooltip: {
-    theme: 'dark', // Makes tooltip background dark and text white
+    theme: 'dark',
     style: {
       fontSize: '14px',
-      color: '#fff' // Tooltip text color (overrides if needed)
+      color: '#fff'
     }
   }
 }))

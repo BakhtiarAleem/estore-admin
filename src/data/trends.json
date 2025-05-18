@@ -1,0 +1,190 @@
+{
+    "daily":[
+        {
+            "time": "2025-05-01",
+            "Electronics": 55,
+            "Clothing": 20,
+            "Home": 50
+        },
+        {
+            "time": "2025-05-02",
+            "Electronics": 55,
+            "Clothing": 20,
+            "Home": 50
+        },
+        {
+            "time": "2025-05-03",
+            "Electronics": 40,
+            "Clothing": 29,
+            "Home": 40
+        },
+        {
+            "time": "2025-05-04",
+            "Electronics": 60,
+            "Clothing": 77,
+            "Home": 20
+        },
+        {
+            "time": "2025-05-05",
+            "Electronics": 22,
+            "Clothing": 40,
+            "Home": 70
+        },
+        {
+            "time": "2025-05-06",
+            "Electronics": 120,
+            "Clothing": 47,
+            "Home": 50
+        },
+        {
+            "time": "2025-05-07",
+            "Electronics": 100,
+            "Clothing": 54,
+            "Home": 64
+        },
+        {
+            "time": "2025-05-08",
+            "Electronics": 120,
+            "Clothing": 60,
+            "Home": 30
+        }
+    ],
+    "weekly":[
+        {
+            "time": "Week 1",
+            "Electronics": 55,
+            "Clothing": 20,
+            "Home": 50
+        },
+        {
+            "time": "Week 2",
+            "Electronics": 55,
+            "Clothing": 20,
+            "Home": 50
+        },
+        {
+            "time": "Week 3",
+            "Electronics": 40,
+            "Clothing": 29,
+            "Home": 40
+        },
+        {
+            "time": "Week 4",
+            "Electronics": 60,
+            "Clothing": 77,
+            "Home": 20
+        },
+        {
+            "time": "Week 5",
+            "Electronics": 22,
+            "Clothing": 40,
+            "Home": 70
+        },
+        {
+            "time": "Week 6",
+            "Electronics": 120,
+            "Clothing": 47,
+            "Home": 50
+        },
+        {
+            "time": "Week 7",
+            "Electronics": 100,
+            "Clothing": 54,
+            "Home": 64
+        },
+        {
+            "time": "Week 8",
+            "Electronics": 120,
+            "Clothing": 60,
+            "Home": 30
+        }
+    ],
+        "monthly":[
+        {
+            "time": "Jan",
+            "Electronics": 200,
+            "Clothing": 300,
+            "Home": 150
+        },
+        {
+            "time": "Feb",
+            "Electronics": 150,
+            "Clothing": 410,
+            "Home": 180
+        },
+        {
+            "time": "March",
+             "Electronics": 600,
+            "Clothing": 550,
+            "Home": 250
+        },
+        {
+            "time": "April",
+            "Electronics": 400,
+            "Clothing": 250,
+            "Home": 450
+        },
+        {
+            "time": "May",
+             "Electronics": 250,
+            "Clothing": 130,
+            "Home": 180
+        },
+        {
+            "time": "June",
+            "Electronics": 270,
+            "Clothing": 200,
+            "Home": 260
+        },
+        {
+            "time": "July",
+            "Electronics": 100,
+            "Clothing": 278,
+            "Home": 265
+        },
+        {
+            "time": "Aug",
+            "Electronics": 600,
+            "Clothing": 500,
+            "Home": 400
+        }
+    ],
+    "annually":[
+        {
+            "time": "2020",
+            "Electronics": 15000,
+            "Clothing": 20000,
+            "Home": 10000
+        },
+        {
+            "time": "2021",
+            "Electronics": 45000,
+            "Clothing": 28000,
+            "Home": 30000
+        },
+        {
+            "time": "2022",
+            "Electronics": 75000,
+            "Clothing": 35000,
+            "Home": 60000
+        },
+        {
+            "time": "2023",
+            "Electronics": 66000,
+            "Clothing": 75000,
+            "Home": 50000
+        },
+        {
+            "time": "2024",
+            "Electronics": 72000,
+            "Clothing": 35000,
+            "Home": 60000
+        },
+        {
+            "time": "2025",
+            "Electronics": 80000,
+            "Clothing": 70000,
+            "Home": 68000
+        }
+    ]
+}

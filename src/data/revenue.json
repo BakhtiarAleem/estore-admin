@@ -1,1178 +1,130 @@
-[
-  {
-    "period": "daily",
-    "timeCategory": "2025-05-01",
-    "type": "orders",
-    "value": 10,
-    "category": "All"
-  },
-  {
-    "period": "daily",
-    "timeCategory": "2025-05-01",
-    "type": "revenue",
-    "value": 1000,
-    "category": "All"
-  },
-  {
-    "period": "daily",
-    "timeCategory": "2025-05-01",
-    "type": "orders",
-    "value": 15,
-    "category": "Electronics"
-  },
-  {
-    "period": "daily",
-    "timeCategory": "2025-05-01",
-    "type": "revenue",
-    "value": 1500,
-    "category": "Electronics"
-  },
-  {
-    "period": "daily",
-    "timeCategory": "2025-05-01",
-    "type": "orders",
-    "value": 20,
-    "category": "Clothing"
-  },
-  {
-    "period": "daily",
-    "timeCategory": "2025-05-01",
-    "type": "revenue",
-    "value": 2000,
-    "category": "Clothing"
-  },
-  {
-    "period": "daily",
-    "timeCategory": "2025-05-01",
-    "type": "orders",
-    "value": 25,
-    "category": "Home"
-  },
-  {
-    "period": "daily",
-    "timeCategory": "2025-05-01",
-    "type": "revenue",
-    "value": 2500,
-    "category": "Home"
-  },
-  {
-    "period": "daily",
-    "timeCategory": "2025-05-02",
-    "type": "orders",
-    "value": 20,
-    "category": "All"
-  },
-  {
-    "period": "daily",
-    "timeCategory": "2025-05-02",
-    "type": "revenue",
-    "value": 2000,
-    "category": "All"
-  },
-  {
-    "period": "daily",
-    "timeCategory": "2025-05-02",
-    "type": "orders",
-    "value": 25,
-    "category": "Electronics"
-  },
-  {
-    "period": "daily",
-    "timeCategory": "2025-05-02",
-    "type": "revenue",
-    "value": 2500,
-    "category": "Electronics"
-  },
-  {
-    "period": "daily",
-    "timeCategory": "2025-05-02",
-    "type": "orders",
-    "value": 30,
-    "category": "Clothing"
-  },
-  {
-    "period": "daily",
-    "timeCategory": "2025-05-02",
-    "type": "revenue",
-    "value": 3000,
-    "category": "Clothing"
-  },
-  {
-    "period": "daily",
-    "timeCategory": "2025-05-02",
-    "type": "orders",
-    "value": 35,
-    "category": "Home"
-  },
-  {
-    "period": "daily",
-    "timeCategory": "2025-05-02",
-    "type": "revenue",
-    "value": 3500,
-    "category": "Home"
-  },
-  {
-    "period": "daily",
-    "timeCategory": "2025-05-03",
-    "type": "orders",
-    "value": 30,
-    "category": "All"
-  },
-  {
-    "period": "daily",
-    "timeCategory": "2025-05-03",
-    "type": "revenue",
-    "value": 3000,
-    "category": "All"
-  },
-  {
-    "period": "daily",
-    "timeCategory": "2025-05-03",
-    "type": "orders",
-    "value": 35,
-    "category": "Electronics"
-  },
-  {
-    "period": "daily",
-    "timeCategory": "2025-05-03",
-    "type": "revenue",
-    "value": 3500,
-    "category": "Electronics"
-  },
-  {
-    "period": "daily",
-    "timeCategory": "2025-05-03",
-    "type": "orders",
-    "value": 40,
-    "category": "Clothing"
-  },
-  {
-    "period": "daily",
-    "timeCategory": "2025-05-03",
-    "type": "revenue",
-    "value": 4000,
-    "category": "Clothing"
-  },
-  {
-    "period": "daily",
-    "timeCategory": "2025-05-03",
-    "type": "orders",
-    "value": 45,
-    "category": "Home"
-  },
-  {
-    "period": "daily",
-    "timeCategory": "2025-05-03",
-    "type": "revenue",
-    "value": 4500,
-    "category": "Home"
-  },
-  {
-    "period": "daily",
-    "timeCategory": "2025-05-04",
-    "type": "orders",
-    "value": 40,
-    "category": "All"
-  },
-  {
-    "period": "daily",
-    "timeCategory": "2025-05-04",
-    "type": "revenue",
-    "value": 4000,
-    "category": "All"
-  },
-  {
-    "period": "daily",
-    "timeCategory": "2025-05-04",
-    "type": "orders",
-    "value": 45,
-    "category": "Electronics"
-  },
-  {
-    "period": "daily",
-    "timeCategory": "2025-05-04",
-    "type": "revenue",
-    "value": 4500,
-    "category": "Electronics"
-  },
-  {
-    "period": "daily",
-    "timeCategory": "2025-05-04",
-    "type": "orders",
-    "value": 50,
-    "category": "Clothing"
-  },
-  {
-    "period": "daily",
-    "timeCategory": "2025-05-04",
-    "type": "revenue",
-    "value": 5000,
-    "category": "Clothing"
-  },
-  {
-    "period": "daily",
-    "timeCategory": "2025-05-04",
-    "type": "orders",
-    "value": 55,
-    "category": "Home"
-  },
-  {
-    "period": "daily",
-    "timeCategory": "2025-05-04",
-    "type": "revenue",
-    "value": 5500,
-    "category": "Home"
-  },
-  {
-    "period": "daily",
-    "timeCategory": "2025-05-05",
-    "type": "orders",
-    "value": 50,
-    "category": "All"
-  },
-  {
-    "period": "daily",
-    "timeCategory": "2025-05-05",
-    "type": "revenue",
-    "value": 5000,
-    "category": "All"
-  },
-  {
-    "period": "daily",
-    "timeCategory": "2025-05-05",
-    "type": "orders",
-    "value": 55,
-    "category": "Electronics"
-  },
-  {
-    "period": "daily",
-    "timeCategory": "2025-05-05",
-    "type": "revenue",
-    "value": 5500,
-    "category": "Electronics"
-  },
-  {
-    "period": "daily",
-    "timeCategory": "2025-05-05",
-    "type": "orders",
-    "value": 60,
-    "category": "Clothing"
-  },
-  {
-    "period": "daily",
-    "timeCategory": "2025-05-05",
-    "type": "revenue",
-    "value": 6000,
-    "category": "Clothing"
-  },
-  {
-    "period": "daily",
-    "timeCategory": "2025-05-05",
-    "type": "orders",
-    "value": 65,
-    "category": "Home"
-  },
-  {
-    "period": "daily",
-    "timeCategory": "2025-05-05",
-    "type": "revenue",
-    "value": 6500,
-    "category": "Home"
-  },
-  {
-    "period": "daily",
-    "timeCategory": "2025-05-06",
-    "type": "orders",
-    "value": 60,
-    "category": "All"
-  },
-  {
-    "period": "daily",
-    "timeCategory": "2025-05-06",
-    "type": "revenue",
-    "value": 6000,
-    "category": "All"
-  },
-  {
-    "period": "daily",
-    "timeCategory": "2025-05-06",
-    "type": "orders",
-    "value": 65,
-    "category": "Electronics"
-  },
-  {
-    "period": "daily",
-    "timeCategory": "2025-05-06",
-    "type": "revenue",
-    "value": 6500,
-    "category": "Electronics"
-  },
-  {
-    "period": "daily",
-    "timeCategory": "2025-05-06",
-    "type": "orders",
-    "value": 70,
-    "category": "Clothing"
-  },
-  {
-    "period": "daily",
-    "timeCategory": "2025-05-06",
-    "type": "revenue",
-    "value": 7000,
-    "category": "Clothing"
-  },
-  {
-    "period": "daily",
-    "timeCategory": "2025-05-06",
-    "type": "orders",
-    "value": 75,
-    "category": "Home"
-  },
-  {
-    "period": "daily",
-    "timeCategory": "2025-05-06",
-    "type": "revenue",
-    "value": 7500,
-    "category": "Home"
-  },
-  {
-    "period": "daily",
-    "timeCategory": "2025-05-07",
-    "type": "orders",
-    "value": 70,
-    "category": "All"
-  },
-  {
-    "period": "daily",
-    "timeCategory": "2025-05-07",
-    "type": "revenue",
-    "value": 7000,
-    "category": "All"
-  },
-  {
-    "period": "daily",
-    "timeCategory": "2025-05-07",
-    "type": "orders",
-    "value": 75,
-    "category": "Electronics"
-  },
-  {
-    "period": "daily",
-    "timeCategory": "2025-05-07",
-    "type": "revenue",
-    "value": 7500,
-    "category": "Electronics"
-  },
-  {
-    "period": "daily",
-    "timeCategory": "2025-05-07",
-    "type": "orders",
-    "value": 80,
-    "category": "Clothing"
-  },
-  {
-    "period": "daily",
-    "timeCategory": "2025-05-07",
-    "type": "revenue",
-    "value": 8000,
-    "category": "Clothing"
-  },
-  {
-    "period": "daily",
-    "timeCategory": "2025-05-07",
-    "type": "orders",
-    "value": 85,
-    "category": "Home"
-  },
-  {
-    "period": "daily",
-    "timeCategory": "2025-05-07",
-    "type": "revenue",
-    "value": 8500,
-    "category": "Home"
-  },
-  {
-    "period": "daily",
-    "timeCategory": "2025-05-08",
-    "type": "orders",
-    "value": 80,
-    "category": "All"
-  },
-  {
-    "period": "daily",
-    "timeCategory": "2025-05-08",
-    "type": "revenue",
-    "value": 8000,
-    "category": "All"
-  },
-  {
-    "period": "daily",
-    "timeCategory": "2025-05-08",
-    "type": "orders",
-    "value": 85,
-    "category": "Electronics"
-  },
-  {
-    "period": "daily",
-    "timeCategory": "2025-05-08",
-    "type": "revenue",
-    "value": 8500,
-    "category": "Electronics"
-  },
-  {
-    "period": "daily",
-    "timeCategory": "2025-05-08",
-    "type": "orders",
-    "value": 90,
-    "category": "Clothing"
-  },
-  {
-    "period": "daily",
-    "timeCategory": "2025-05-08",
-    "type": "revenue",
-    "value": 9000,
-    "category": "Clothing"
-  },
-  {
-    "period": "daily",
-    "timeCategory": "2025-05-08",
-    "type": "orders",
-    "value": 95,
-    "category": "Home"
-  },
-  {
-    "period": "daily",
-    "timeCategory": "2025-05-08",
-    "type": "revenue",
-    "value": 9500,
-    "category": "Home"
-  },
-  {
-    "period": "daily",
-    "timeCategory": "2025-05-09",
-    "type": "orders",
-    "value": 90,
-    "category": "All"
-  },
-  {
-    "period": "daily",
-    "timeCategory": "2025-05-09",
-    "type": "revenue",
-    "value": 9000,
-    "category": "All"
-  },
-  {
-    "period": "daily",
-    "timeCategory": "2025-05-09",
-    "type": "orders",
-    "value": 95,
-    "category": "Electronics"
-  },
-  {
-    "period": "daily",
-    "timeCategory": "2025-05-09",
-    "type": "revenue",
-    "value": 9500,
-    "category": "Electronics"
-  },
-  {
-    "period": "daily",
-    "timeCategory": "2025-05-09",
-    "type": "orders",
-    "value": 100,
-    "category": "Clothing"
-  },
-  {
-    "period": "daily",
-    "timeCategory": "2025-05-09",
-    "type": "revenue",
-    "value": 10000,
-    "category": "Clothing"
-  },
-  {
-    "period": "daily",
-    "timeCategory": "2025-05-09",
-    "type": "orders",
-    "value": 105,
-    "category": "Home"
-  },
-  {
-    "period": "daily",
-    "timeCategory": "2025-05-09",
-    "type": "revenue",
-    "value": 10500,
-    "category": "Home"
-  },
-  {
-    "period": "daily",
-    "timeCategory": "2025-05-10",
-    "type": "orders",
-    "value": 100,
-    "category": "All"
-  },
-  {
-    "period": "daily",
-    "timeCategory": "2025-05-10",
-    "type": "revenue",
-    "value": 10000,
-    "category": "All"
-  },
-  {
-    "period": "daily",
-    "timeCategory": "2025-05-10",
-    "type": "orders",
-    "value": 105,
-    "category": "Electronics"
-  },
-  {
-    "period": "daily",
-    "timeCategory": "2025-05-10",
-    "type": "revenue",
-    "value": 10500,
-    "category": "Electronics"
-  },
-  {
-    "period": "daily",
-    "timeCategory": "2025-05-10",
-    "type": "orders",
-    "value": 110,
-    "category": "Clothing"
-  },
-  {
-    "period": "daily",
-    "timeCategory": "2025-05-10",
-    "type": "revenue",
-    "value": 11000,
-    "category": "Clothing"
-  },
-  {
-    "period": "daily",
-    "timeCategory": "2025-05-10",
-    "type": "orders",
-    "value": 115,
-    "category": "Home"
-  },
-  {
-    "period": "daily",
-    "timeCategory": "2025-05-10",
-    "type": "revenue",
-    "value": 11500,
-    "category": "Home"
-  },
-  {
-    "period": "weekly",
-    "timeCategory": "Week 1",
-    "type": "orders",
-    "value": 100,
-    "category": "All"
-  },
-  {
-    "period": "weekly",
-    "timeCategory": "Week 1",
-    "type": "revenue",
-    "value": 5000,
-    "category": "All"
-  },
-  {
-    "period": "weekly",
-    "timeCategory": "Week 1",
-    "type": "orders",
-    "value": 120,
-    "category": "Electronics"
-  },
-  {
-    "period": "weekly",
-    "timeCategory": "Week 1",
-    "type": "revenue",
-    "value": 6000,
-    "category": "Electronics"
-  },
-  {
-    "period": "weekly",
-    "timeCategory": "Week 1",
-    "type": "orders",
-    "value": 140,
-    "category": "Clothing"
-  },
-  {
-    "period": "weekly",
-    "timeCategory": "Week 1",
-    "type": "revenue",
-    "value": 7000,
-    "category": "Clothing"
-  },
-  {
-    "period": "weekly",
-    "timeCategory": "Week 1",
-    "type": "orders",
-    "value": 160,
-    "category": "Home"
-  },
-  {
-    "period": "weekly",
-    "timeCategory": "Week 1",
-    "type": "revenue",
-    "value": 8000,
-    "category": "Home"
-  },
-  {
-    "period": "weekly",
-    "timeCategory": "Week 2",
-    "type": "orders",
-    "value": 200,
-    "category": "All"
-  },
-  {
-    "period": "weekly",
-    "timeCategory": "Week 2",
-    "type": "revenue",
-    "value": 10000,
-    "category": "All"
-  },
-  {
-    "period": "weekly",
-    "timeCategory": "Week 2",
-    "type": "orders",
-    "value": 220,
-    "category": "Electronics"
-  },
-  {
-    "period": "weekly",
-    "timeCategory": "Week 2",
-    "type": "revenue",
-    "value": 11000,
-    "category": "Electronics"
-  },
-  {
-    "period": "weekly",
-    "timeCategory": "Week 2",
-    "type": "orders",
-    "value": 240,
-    "category": "Clothing"
-  },
-  {
-    "period": "weekly",
-    "timeCategory": "Week 2",
-    "type": "revenue",
-    "value": 12000,
-    "category": "Clothing"
-  },
-  {
-    "period": "weekly",
-    "timeCategory": "Week 2",
-    "type": "orders",
-    "value": 260,
-    "category": "Home"
-  },
-  {
-    "period": "weekly",
-    "timeCategory": "Week 2",
-    "type": "revenue",
-    "value": 13000,
-    "category": "Home"
-  },
-  {
-    "period": "weekly",
-    "timeCategory": "Week 3",
-    "type": "orders",
-    "value": 300,
-    "category": "All"
-  },
-  {
-    "period": "weekly",
-    "timeCategory": "Week 3",
-    "type": "revenue",
-    "value": 15000,
-    "category": "All"
-  },
-  {
-    "period": "weekly",
-    "timeCategory": "Week 3",
-    "type": "orders",
-    "value": 320,
-    "category": "Electronics"
-  },
-  {
-    "period": "weekly",
-    "timeCategory": "Week 3",
-    "type": "revenue",
-    "value": 16000,
-    "category": "Electronics"
-  },
-  {
-    "period": "weekly",
-    "timeCategory": "Week 3",
-    "type": "orders",
-    "value": 340,
-    "category": "Clothing"
-  },
-  {
-    "period": "weekly",
-    "timeCategory": "Week 3",
-    "type": "revenue",
-    "value": 17000,
-    "category": "Clothing"
-  },
-  {
-    "period": "weekly",
-    "timeCategory": "Week 3",
-    "type": "orders",
-    "value": 360,
-    "category": "Home"
-  },
-  {
-    "period": "weekly",
-    "timeCategory": "Week 3",
-    "type": "revenue",
-    "value": 18000,
-    "category": "Home"
-  },
-  {
-    "period": "weekly",
-    "timeCategory": "Week 4",
-    "type": "orders",
-    "value": 400,
-    "category": "All"
-  },
-  {
-    "period": "weekly",
-    "timeCategory": "Week 4",
-    "type": "revenue",
-    "value": 20000,
-    "category": "All"
-  },
-  {
-    "period": "weekly",
-    "timeCategory": "Week 4",
-    "type": "orders",
-    "value": 420,
-    "category": "Electronics"
-  },
-  {
-    "period": "weekly",
-    "timeCategory": "Week 4",
-    "type": "revenue",
-    "value": 21000,
-    "category": "Electronics"
-  },
-  {
-    "period": "weekly",
-    "timeCategory": "Week 4",
-    "type": "orders",
-    "value": 440,
-    "category": "Clothing"
-  },
-  {
-    "period": "weekly",
-    "timeCategory": "Week 4",
-    "type": "revenue",
-    "value": 22000,
-    "category": "Clothing"
-  },
-  {
-    "period": "weekly",
-    "timeCategory": "Week 4",
-    "type": "orders",
-    "value": 460,
-    "category": "Home"
-  },
-  {
-    "period": "weekly",
-    "timeCategory": "Week 4",
-    "type": "revenue",
-    "value": 23000,
-    "category": "Home"
-  },
-  {
-    "period": "monthly",
-    "timeCategory": "Jan",
-    "type": "orders",
-    "value": 300,
-    "category": "All"
-  },
-  {
-    "period": "monthly",
-    "timeCategory": "Jan",
-    "type": "revenue",
-    "value": 10000,
-    "category": "All"
-  },
-  {
-    "period": "monthly",
-    "timeCategory": "Jan",
-    "type": "orders",
-    "value": 350,
-    "category": "Electronics"
-  },
-  {
-    "period": "monthly",
-    "timeCategory": "Jan",
-    "type": "revenue",
-    "value": 13000,
-    "category": "Electronics"
-  },
-  {
-    "period": "monthly",
-    "timeCategory": "Jan",
-    "type": "orders",
-    "value": 400,
-    "category": "Clothing"
-  },
-  {
-    "period": "monthly",
-    "timeCategory": "Jan",
-    "type": "revenue",
-    "value": 16000,
-    "category": "Clothing"
-  },
-  {
-    "period": "monthly",
-    "timeCategory": "Jan",
-    "type": "orders",
-    "value": 450,
-    "category": "Home"
-  },
-  {
-    "period": "monthly",
-    "timeCategory": "Jan",
-    "type": "revenue",
-    "value": 19000,
-    "category": "Home"
-  },
-  {
-    "period": "monthly",
-    "timeCategory": "Feb",
-    "type": "orders",
-    "value": 600,
-    "category": "All"
-  },
-  {
-    "period": "monthly",
-    "timeCategory": "Feb",
-    "type": "revenue",
-    "value": 20000,
-    "category": "All"
-  },
-  {
-    "period": "monthly",
-    "timeCategory": "Feb",
-    "type": "orders",
-    "value": 650,
-    "category": "Electronics"
-  },
-  {
-    "period": "monthly",
-    "timeCategory": "Feb",
-    "type": "revenue",
-    "value": 23000,
-    "category": "Electronics"
-  },
-  {
-    "period": "monthly",
-    "timeCategory": "Feb",
-    "type": "orders",
-    "value": 700,
-    "category": "Clothing"
-  },
-  {
-    "period": "monthly",
-    "timeCategory": "Feb",
-    "type": "revenue",
-    "value": 26000,
-    "category": "Clothing"
-  },
-  {
-    "period": "monthly",
-    "timeCategory": "Feb",
-    "type": "orders",
-    "value": 750,
-    "category": "Home"
-  },
-  {
-    "period": "monthly",
-    "timeCategory": "Feb",
-    "type": "revenue",
-    "value": 29000,
-    "category": "Home"
-  },
-  {
-    "period": "monthly",
-    "timeCategory": "Mar",
-    "type": "orders",
-    "value": 900,
-    "category": "All"
-  },
-  {
-    "period": "monthly",
-    "timeCategory": "Mar",
-    "type": "revenue",
-    "value": 30000,
-    "category": "All"
-  },
-  {
-    "period": "monthly",
-    "timeCategory": "Mar",
-    "type": "orders",
-    "value": 950,
-    "category": "Electronics"
-  },
-  {
-    "period": "monthly",
-    "timeCategory": "Mar",
-    "type": "revenue",
-    "value": 33000,
-    "category": "Electronics"
-  },
-  {
-    "period": "monthly",
-    "timeCategory": "Mar",
-    "type": "orders",
-    "value": 1000,
-    "category": "Clothing"
-  },
-  {
-    "period": "monthly",
-    "timeCategory": "Mar",
-    "type": "revenue",
-    "value": 36000,
-    "category": "Clothing"
-  },
-  {
-    "period": "monthly",
-    "timeCategory": "Mar",
-    "type": "orders",
-    "value": 1050,
-    "category": "Home"
-  },
-  {
-    "period": "monthly",
-    "timeCategory": "Mar",
-    "type": "revenue",
-    "value": 39000,
-    "category": "Home"
-  },
-  {
-    "period": "monthly",
-    "timeCategory": "Apr",
-    "type": "orders",
-    "value": 1200,
-    "category": "All"
-  },
-  {
-    "period": "monthly",
-    "timeCategory": "Apr",
-    "type": "revenue",
-    "value": 40000,
-    "category": "All"
-  },
-  {
-    "period": "monthly",
-    "timeCategory": "Apr",
-    "type": "orders",
-    "value": 1250,
-    "category": "Electronics"
-  },
-  {
-    "period": "monthly",
-    "timeCategory": "Apr",
-    "type": "revenue",
-    "value": 43000,
-    "category": "Electronics"
-  },
-  {
-    "period": "monthly",
-    "timeCategory": "Apr",
-    "type": "orders",
-    "value": 1300,
-    "category": "Clothing"
-  },
-  {
-    "period": "monthly",
-    "timeCategory": "Apr",
-    "type": "revenue",
-    "value": 46000,
-    "category": "Clothing"
-  },
-  {
-    "period": "monthly",
-    "timeCategory": "Apr",
-    "type": "orders",
-    "value": 1350,
-    "category": "Home"
-  },
-  {
-    "period": "monthly",
-    "timeCategory": "Apr",
-    "type": "revenue",
-    "value": 49000,
-    "category": "Home"
-  },
-  {
-    "period": "annually",
-    "timeCategory": "2022",
-    "type": "orders",
-    "value": 1000,
-    "category": "All"
-  },
-  {
-    "period": "annually",
-    "timeCategory": "2022",
-    "type": "revenue",
-    "value": 20000,
-    "category": "All"
-  },
-  {
-    "period": "annually",
-    "timeCategory": "2022",
-    "type": "orders",
-    "value": 1200,
-    "category": "Electronics"
-  },
-  {
-    "period": "annually",
-    "timeCategory": "2022",
-    "type": "revenue",
-    "value": 25000,
-    "category": "Electronics"
-  },
-  {
-    "period": "annually",
-    "timeCategory": "2022",
-    "type": "orders",
-    "value": 1400,
-    "category": "Clothing"
-  },
-  {
-    "period": "annually",
-    "timeCategory": "2022",
-    "type": "revenue",
-    "value": 30000,
-    "category": "Clothing"
-  },
-  {
-    "period": "annually",
-    "timeCategory": "2022",
-    "type": "orders",
-    "value": 1600,
-    "category": "Home"
-  },
-  {
-    "period": "annually",
-    "timeCategory": "2022",
-    "type": "revenue",
-    "value": 35000,
-    "category": "Home"
-  },
-  {
-    "period": "annually",
-    "timeCategory": "2023",
-    "type": "orders",
-    "value": 2000,
-    "category": "All"
-  },
-  {
-    "period": "annually",
-    "timeCategory": "2023",
-    "type": "revenue",
-    "value": 40000,
-    "category": "All"
-  },
-  {
-    "period": "annually",
-    "timeCategory": "2023",
-    "type": "orders",
-    "value": 2200,
-    "category": "Electronics"
-  },
-  {
-    "period": "annually",
-    "timeCategory": "2023",
-    "type": "revenue",
-    "value": 45000,
-    "category": "Electronics"
-  },
-  {
-    "period": "annually",
-    "timeCategory": "2023",
-    "type": "orders",
-    "value": 2400,
-    "category": "Clothing"
-  },
-  {
-    "period": "annually",
-    "timeCategory": "2023",
-    "type": "revenue",
-    "value": 50000,
-    "category": "Clothing"
-  },
-  {
-    "period": "annually",
-    "timeCategory": "2023",
-    "type": "orders",
-    "value": 2600,
-    "category": "Home"
-  },
-  {
-    "period": "annually",
-    "timeCategory": "2023",
-    "type": "revenue",
-    "value": 55000,
-    "category": "Home"
-  },
-  {
-    "period": "annually",
-    "timeCategory": "2024",
-    "type": "orders",
-    "value": 3000,
-    "category": "All"
-  },
-  {
-    "period": "annually",
-    "timeCategory": "2024",
-    "type": "revenue",
-    "value": 60000,
-    "category": "All"
-  },
-  {
-    "period": "annually",
-    "timeCategory": "2024",
-    "type": "orders",
-    "value": 3200,
-    "category": "Electronics"
-  },
-  {
-    "period": "annually",
-    "timeCategory": "2024",
-    "type": "revenue",
-    "value": 65000,
-    "category": "Electronics"
-  },
-  {
-    "period": "annually",
-    "timeCategory": "2024",
-    "type": "orders",
-    "value": 3400,
-    "category": "Clothing"
-  },
-  {
-    "period": "annually",
-    "timeCategory": "2024",
-    "type": "revenue",
-    "value": 70000,
-    "category": "Clothing"
-  },
-  {
-    "period": "annually",
-    "timeCategory": "2024",
-    "type": "orders",
-    "value": 3600,
-    "category": "Home"
-  },
-  {
-    "period": "annually",
-    "timeCategory": "2024",
-    "type": "revenue",
-    "value": 75000,
-    "category": "Home"
-  }
-]
+{
+    "daily":[
+        {
+            "time": "2025-05-01",
+            "value": 100 
+        },
+        {
+            "time": "2025-05-02",
+            "value": 120 
+        },
+        {
+            "time": "2025-05-03",
+            "value": 200 
+        },
+        {
+            "time": "2025-05-04",
+            "value": 180 
+        },
+        {
+            "time": "2025-05-05",
+            "value": 220 
+        },
+        {
+            "time": "2025-05-06",
+            "value": 160 
+        },
+        {
+            "time": "2025-05-07",
+            "value": 250 
+        },
+        {
+            "time": "2025-05-08",
+            "value": 200 
+        }
+    ],
+    "weekly":[
+        {
+            "time": "Week 1",
+            "value": 200 
+        },
+        {
+            "time": "Week 2",
+            "value": 300 
+        },
+        {
+            "time": "Week 3",
+            "value": 200 
+        },
+        {
+            "time": "Week 4",
+            "value": 500 
+        },
+        {
+            "time": "Week 5",
+            "value": 400 
+        },
+        {
+            "time": "Week 6",
+            "value": 410 
+        },
+        {
+            "time": "Week 7",
+            "value": 450 
+        },
+        {
+            "time": "Week 8",
+            "value": 400 
+        }
+    ],
+        "monthly":[
+        {
+            "time": "Jan",
+            "value": 500 
+        },
+        {
+            "time": "Feb",
+            "value": 600 
+        },
+        {
+            "time": "March",
+            "value": 650 
+        },
+        {
+            "time": "April",
+            "value": 300 
+        },
+        {
+            "time": "May",
+            "value": 350 
+        },
+        {
+            "time": "June",
+            "value": 410 
+        },
+        {
+            "time": "July",
+            "value": 450 
+        },
+        {
+            "time": "Aug",
+            "value": 500 
+        }
+    ],
+    "annually":[
+        {
+            "time": "2020",
+            "value": 1000 
+        },
+        {
+            "time": "2021",
+            "value": 2000 
+        },
+        {
+            "time": "2022",
+            "value": 3000 
+        },
+        {
+            "time": "2023",
+            "value": 4000
+        },
+        {
+            "time": "2024",
+            "value": 2000
+        },
+        {
+            "time": "2025",
+            "value": 6000
+        }
+    ]
+}
