@@ -3,8 +3,10 @@
     width: 100%;
     display: flex;
        .admin-inner{
-        width: calc(100% - 250px);
-        display: inline-block;
+            width: calc(100% - 250px);
+            display: inline-block;
+            margin-left: auto;
+            margin-right: 0;
         .admin-top-area {
             padding: 16px 24px;
             border-bottom: 1px solid var(--border-seperator-color);

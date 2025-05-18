@@ -2,7 +2,11 @@
     import { ref, computed, onMounted } from 'vue';
     import data from '@/data/trends.json'
 
-
+    const props = defineProps({
+        height:{
+            type: Number,
+        }
+    })
     const categorySelected = ref()
 
     const chartOptions = computed(() => (
@@ -120,7 +124,7 @@ onMounted(() => {
                 <p>Loading</p>
             </div>
             <div v-if="!isLoading">
-                <apexchart type="area" height="350" :options="chartOptions" :series="trendData" />
+                <apexchart type="area" :height="props.height" :options="chartOptions" :series="trendData" />
             </div>
         </div>
     </div>

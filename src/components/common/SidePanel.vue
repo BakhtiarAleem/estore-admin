@@ -74,12 +74,12 @@
                 openMenu = !openMenu
             }" class="user-logged-in">
                 <div class="user-image">
-                    <img :src="user.image" />
+                    <img :src="user?.image" />
                 </div>
                 <div class="user-meta">
                     <div class="user-meta-details">
-                        <p class="name">{{ user.fullname }}</p>
-                        <p class="role">{{ user.role }}</p>
+                        <p class="name">{{ user?.fullname }}</p>
+                        <p class="role">{{ user?.role }}</p>
                     </div>     
                     <ArrowRight />               
                 </div>
@@ -104,7 +104,7 @@
     border: 1px solid var(--border-seperator-color);
     box-sizing: border-box;
     display: inline-block;
-    position: relative;
+    position: fixed;
     .top-area{
         padding: 15px;
     }

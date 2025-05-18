@@ -5,6 +5,12 @@ const period = ref('daily')
 const isLoading = ref(true)
 const selectedCategory = ref('All')
 
+const props = defineProps({
+  height:{
+    type: Number,
+  }
+})
+
 const intervalOptions = ref([
     {
         label: 'Daily',
@@ -143,7 +149,7 @@ onMounted(()=>{
                 <p>Loading</p>
             </div>
             <div v-if="!isLoading">
-                <apexchart type="bar" height="350" :options="chartOptions" :series="chartData" />
+                <apexchart type="bar" :height="props.height" :options="chartOptions" :series="chartData" />
             </div>
         </div>
     </div>

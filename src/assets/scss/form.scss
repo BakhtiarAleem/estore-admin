@@ -42,7 +42,7 @@ form{
     color: #fff;
     outline: 0;
     border: 0px solid var(--input-border-color);
-    height: 32px;
+    padding: 10px 8px;
 }
 .btn{
     &.btn-primary{
@@ -54,4 +54,71 @@ form{
         padding: var(--btn-padding);
         cursor: pointer;
     }
+     &.btn-secondary{
+        font-size: var(--font-base);
+        background-color: var(--btn-secondary-color);
+        color: var(--btn-text-color);
+        border-radius: var(--btn-radius);
+        border: var(--btn-border);
+        padding: var(--btn-padding);
+        cursor: pointer;
+    }
+}
+.form-group-check{
+    height: 80px;
+    display: flex;
+    align-items: center;
+
+  .checkbox-container *,
+  .checkbox-container *::before,
+  .checkbox-container *::after {
+    box-sizing: border-box;
+  }
+
+  .checkbox-container label {
+    display: block;
+    width: 22px;
+    height: 22px;
+    cursor: pointer;
+  }
+
+  .checkbox-container input {
+    visibility: hidden;
+    display: none;
+  }
+
+  .checkbox-container input:checked ~ .checkbox {
+        transform: rotate(45deg);
+        width: 14px;
+        margin-left: 6px;
+        border-color: var(--primary);
+        border-top-color: transparent;
+        border-left-color: transparent;
+        border-radius: 0;
+        margin-top: -8px;
+  }
+
+  .checkbox-container .checkbox {
+    display: block;
+    width: inherit;
+    height: inherit;
+    border: 3px solid #434343;
+    border-radius: 6px;
+    transition: all 0.375s;
+  }
+    .form-checklabel{
+        margin-left: 10px;
+    }
+}
+
+
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+input[type=number] {
+  -moz-appearance: textfield;
 }

@@ -47,7 +47,9 @@ const onSubmit = () => {
         )
         if(check){
             store.dispatch('login', check.userData)
-            router.push({name: 'dashboard'})
+            router.push({name: 'dashboard'}).then(() => { 
+                router.go()
+            })
         }
         else{
             error.auth = 'Invalid Email or Password'

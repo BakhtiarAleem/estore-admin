@@ -6,13 +6,13 @@
 <template>
         <div class="row">
             <div class="col-md-6">
-                <Trends />
+                <Trends :height="360" />
             </div>
             <div class="col-md-6">
-                <Revenue />
+                <Revenue :height="360" />
             </div>
             <div class="col-md-12">
-                <Order />
+                <Order :height="360" />
             </div>
         </div>
 </template>

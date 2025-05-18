@@ -15,12 +15,54 @@
         .right-sec{
             display: flex;
              & > * {
-                margin-left: 20px;
+                margin-left: 10px;
+            }
+            .form-control{
+                height: 32px;
+                padding: 3px 4px;
             }
         }
         .left-sec{
             & > * {
                 margin-bottom: 20px;
+            }
+        }
+    }
+    .card-body{
+        padding: 24px 0px 0px 0px;
+    }
+    .card-descp{
+        .bottom-area{
+            display: flex;
+            flex-direction: row;
+            justify-content: space-between;
+            align-items: center;
+            p{
+                font-size: 18px;
+            }
+            .percentage{
+                padding: 4px 13px;
+                font-size: 12px;
+                margin: 0;
+                display: flex;
+                border-radius: 10px;
+            }
+        }
+        .lower-area{
+            width: 100%;
+            .percentage-bar{
+                width: 100%;
+                height: 6px;
+                background-color: var(--card-bg-color);
+                border-radius: 10px;
+                overflow: hidden;
+                position: relative;
+                .percentage-bar-completed{
+                    position: absolute;
+                    top: 0;
+                    left: 0;
+                    height: 6px;
+                }
             }
         }
     }
