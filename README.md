@@ -43,6 +43,3 @@ Use the following Credentials to Log into the demo:
 
 - **Username** `bakhtiar@gmail.com`
 - **Password** `bakhtiar123`
-
-- **Username** `admin@gmail.com`
-- **Password** `admin123`
