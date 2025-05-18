@@ -6,6 +6,7 @@
     import IconInventory from '@/components/icons/IconInventory.vue'
     import IconProduct from '@/components/icons/IconProduct.vue'
     import ArrowRight from '@/components/icons/IconArrowRight.vue'
+    import IconSetting from '@/components/icons/IconSetting.vue'
     import { useRouter } from 'vue-router';
     import { useStore } from 'vuex';
 
@@ -86,6 +87,9 @@
             </div>
             <div v-if="openMenu" class="open-menu">
                 <div class="open-menu-head">
+                    <div class="icon">
+                        <IconSetting />
+                    </div>
                     <p>Setting</p>
                 </div>
                 <ul>
