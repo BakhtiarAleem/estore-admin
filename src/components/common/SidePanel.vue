@@ -85,6 +85,9 @@
                 </div>
             </div>
             <div v-if="openMenu" class="open-menu">
+                <div class="open-menu-head">
+                    <p>Setting</p>
+                </div>
                 <ul>
                     <li>
                         <a @click="logout">
@@ -97,118 +100,3 @@
     </div>
 </template>
 
-<style lang="scss">
-.sidebar-container {
-    width: 250px;
-    height: 100%;
-    border: 1px solid var(--border-seperator-color);
-    box-sizing: border-box;
-    display: inline-block;
-    position: fixed;
-    .top-area{
-        padding: 15px;
-    }
-    .middle-area{
-        height: calc(100% - 200px);
-        .side-nav{
-            ul{
-                padding: 0;
-                list-style: none;
-                li{
-                    a{
-                        color: var(--text-color);
-                        text-decoration: none;
-                        &.router-link-active{
-                            .side-nav--item{
-                                background-color: var(--auth-form-color);
-                                .side-nav--icon{
-                                    background-color: var(--primary);
-                                    border-radius: 30px;
-                                }
-                            }
-                        }
-                    }
-                    .side-nav--item{
-                        padding: var(--sidebar-item-padding);
-                        display: flex;
-                        align-items: center;
-                        .side-nav--icon{
-                            margin-right: 10px;
-                            width: 29px;
-                            display: flex;
-                            align-items: center;
-                            justify-content: center;
-                            height: 29px;
-                            svg{
-                                fill: var(--text-color);
-                                width: 22px;
-                            }
-                        }
-                    }
-                }
-            }
-        }
-    }
-    .bottom-area{
-        position: absolute;
-        bottom: 20px;
-        width: 100%;
-        .user-logged-in{
-            display: flex;
-            width: 100%;
-            flex-direction: row;
-            cursor: pointer;
-            padding: 0px 10px;
-            box-sizing: border-box;
-            .user-image{
-                width: 50px;
-                border-radius: 50px;
-                overflow: hidden;
-                height: 50px;
-                img{
-                    width: 100%;
-                }
-            }
-            .user-meta{
-                margin-left: 10px;
-                display: flex;
-                flex-direction: row;
-                align-items: center;
-                width: calc(100% - 70px);
-                justify-content: space-between;
-                p{
-                    margin-top: 5px;
-                    margin-bottom: 0px;
-                }
-                .user-meta-details{
-                    display: flex;
-                    flex-direction: column;
-                }
-                svg{
-                    path{
-                        stroke: var(--text-color);
-                    }
-                }
-            }
-        }
-        .open-menu {
-            position: absolute;
-            top: 0;
-            left: 100%;
-            background-color: var(--auth-form-color);
-            width: 100px;
-            border-radius: 8px;
-            ul {
-                padding: 0;
-                list-style: none;
-                margin: 0;
-                a {
-                    display: block;
-                    cursor: pointer;
-                    padding: 10px 0px 10px 20px;
-                }
-            }
-        }
-    }
-}
-</style>

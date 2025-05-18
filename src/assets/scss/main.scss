@@ -1,8 +1,9 @@
-@use '@/assets/scss/variables.scss';
-@use '@/assets/scss/fonts.scss';
-@use '@/assets/scss/form.scss';
-@use '@/assets/scss/grid.scss';
-@use '@/assets/scss/card.scss';
+@use '@/assets/scss/variables.scss' as *;
+@use '@/assets/scss/sidebar.scss' as *;
+@use '@/assets/scss/fonts.scss' as *;
+@use '@/assets/scss/form.scss' as *;
+@use '@/assets/scss/grid.scss' as *;
+@use '@/assets/scss/card.scss' as *;
 
 
 html{
