@@ -72,14 +72,14 @@ const onSubmit = () => {
                         <label class="icon">
                             <userIcon />
                         </label>
-                        <input type="text" v-model="username" name="username" class="form-control" />
+                        <input type="text" placeholder="Enter Email" v-model="username" name="username" class="form-control" />
                         <span class="error" v-if="error.email">{{ error.email }}</span>
                     </div>
                     <div class="form-group">
                         <label class="icon">
                             <IconLock />
                         </label>
-                        <input type="password" v-model="password" name="password" class="form-control" />
+                        <input type="password" placeholder="Enter Password" v-model="password" name="password" class="form-control" />
                         <span class="error" v-if="error.password">{{ error.password }}</span>
                     </div>
                     <div v-if="error.auth" class="form-group text-center">
