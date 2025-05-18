@@ -36,3 +36,13 @@ npm run dev
 ```sh
 npm run build
 ```
+
+### Demo Credentials
+
+Use the following Credentials to Log into the demo:
+
+- **Username** `bakhtiar@gmail.com`
+- **Password** `bakhtiar123`
+
+- **Username** `admin@gmail.com`
+- **Password** `admin123`
